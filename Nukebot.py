@@ -30,4 +30,4 @@ async def Spieltag(ctx, position: int):
         await ctx.send(f"{random.choice(DukeNukem)} {position}.Spieltag ist der {Spieltag}.")
 
 # Start the bot with the token
-bot.run('MTAxOTE2ODU0MTQzNTQ5NDQzMA.GJCy9A.GIHhgc6EYW0gCiOJHzV0eOAaz71-DHf3eRNj5w')
+bot.run('')
